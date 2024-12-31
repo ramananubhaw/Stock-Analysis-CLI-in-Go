@@ -1,0 +1,452 @@
+[
+    {
+        "Ticker": "BRK.A",
+        "EntryPrice": 576721.27,
+        "Shares": 0,
+        "TakeProfitPrice": 523642.5,
+        "StopLossPrice": 629800.04,
+        "Profit": 0,
+        "Articles": [
+            {
+                "PublishOn": "2024-12-22T12:41:54-05:00",
+                "Headline": "Insider trades: OXY, Nvidia \u0026 Salesforce among notable names this week"
+            },
+            {
+                "PublishOn": "2024-12-02T09:55:04-05:00",
+                "Headline": "Marjorie Taylor Greene discloses buys of AMD, Alphabet, Microsoft, others"
+            },
+            {
+                "PublishOn": "2024-11-25T13:30:28-05:00",
+                "Headline": "Warren Buffett gives away more of his shares to four foundations, as part of giving pledge"
+            },
+            {
+                "PublishOn": "2024-11-14T16:43:17-05:00",
+                "Headline": "Buffett's Berkshire Hathaway adds Domino's, exits Floor \u0026 Decor: Q3 trades"
+            },
+            {
+                "PublishOn": "2024-11-12T17:32:20-05:00",
+                "Headline": "Leveraged ETF to package Berkshire Hathaway B shares - report"
+            },
+            {
+                "PublishOn": "2024-11-04T10:42:00-05:00",
+                "Headline": "Berkshire Hathaway B shares cut to Hold at CFRA after less-than-stellar Q3 results"
+            },
+            {
+                "PublishOn": "2024-11-04T05:22:33-05:00",
+                "Headline": "What's behind Warren Buffett's swelling cash pile at Berkshire Hathaway?"
+            },
+            {
+                "PublishOn": "2024-11-02T11:04:14-04:00",
+                "Headline": "Buffett's Berkshire Hathaway cuts Apple, BofA stakes by more than 20% each in Q3"
+            },
+            {
+                "PublishOn": "2024-11-02T10:17:00-04:00",
+                "Headline": "Berkshire operating profit slips, cash pile hits record; Buffett unloads Apple, BofA"
+            },
+            {
+                "PublishOn": "2024-11-02T08:17:41-04:00",
+                "Headline": "Berkshire Hathaway Q3 operating earnings -6.2% Y/Y, cash hits record $325.21B"
+            },
+            {
+                "PublishOn": "2024-11-01T11:59:05-04:00",
+                "Headline": "Berkshire Hathaway Q3 results to provide views on cash and stock holdings"
+            },
+            {
+                "PublishOn": "2024-11-01T08:00:46-04:00",
+                "Headline": "Warren Buffett's Berkshire raises stake in Sirius XM again"
+            },
+            {
+                "PublishOn": "2024-10-24T13:28:28-04:00",
+                "Headline": "Berkshire Hathaway's Warren Buffett won't endorse political candidates"
+            },
+            {
+                "PublishOn": "2024-10-19T08:40:19-04:00",
+                "Headline": "Warren Buffett’s Berkshire Hathaway lifts Sirius XM stake above 32%"
+            },
+            {
+                "PublishOn": "2024-10-16T14:33:36-04:00",
+                "Headline": "Greenlight Capital's Einhorn says fund will 'continue to underperform' bull market"
+            },
+            {
+                "PublishOn": "2024-10-16T10:54:46-04:00",
+                "Headline": "Verisk estimates Milton insured losses at up to $50B, exceeding Helene's tally"
+            },
+            {
+                "PublishOn": "2024-10-13T10:18:12-04:00",
+                "Headline": "Berkshire Hathaway further boosts SiriusXM stake with $87M share purchase"
+            },
+            {
+                "PublishOn": "2024-10-11T03:07:48-04:00",
+                "Headline": "Warren Buffett's Berkshire offloads more Bank of America stock, stake drops below 10%"
+            },
+            {
+                "PublishOn": "2024-10-10T02:28:53-04:00",
+                "Headline": "Warren Buffett's Berkshire raises $1.9B in yen-denominated bonds - report"
+            },
+            {
+                "PublishOn": "2024-10-09T03:18:32-04:00",
+                "Headline": "Warren Buffett's Bank of America selling spree surpasses $10 billion mark"
+            }
+        ]
+    },
+    {
+        "Ticker": "MSFT",
+        "EntryPrice": 108.86,
+        "Shares": 137,
+        "TakeProfitPrice": 94.35,
+        "StopLossPrice": 123.37,
+        "Profit": 1988.51,
+        "Articles": [
+            {
+                "PublishOn": "2024-12-31T09:44:35-05:00",
+                "Headline": "Microsoft, Salesforce, Oracle among Evercore's top software stocks for 2025"
+            },
+            {
+                "PublishOn": "2024-12-31T07:35:56-05:00",
+                "Headline": "Nvidia, Microsoft lead Wedbush's top 10 tech winners for AI revolution in 2025"
+            },
+            {
+                "PublishOn": "2024-12-30T14:42:34-05:00",
+                "Headline": "Trim the Mag 7 and invest in lower valuation dividend growth stocks – Miramar Capital"
+            },
+            {
+                "PublishOn": "2024-12-30T09:05:14-05:00",
+                "Headline": "Nvidia's supplier Ibiden mulls rapid expansion amid AI demand: report"
+            },
+            {
+                "PublishOn": "2024-12-30T08:57:49-05:00",
+                "Headline": "Grand Theft Auto 6 may light up the videogame sector in 2025"
+            },
+            {
+                "PublishOn": "2024-12-29T13:12:01-05:00",
+                "Headline": "Google CEO asks employees to brace for challenging 2025"
+            },
+            {
+                "PublishOn": "2024-12-27T09:06:00-05:00",
+                "Headline": "OpenAI mulls plan around for-profit structure to propel ChatGPT maker"
+            },
+            {
+                "PublishOn": "2024-12-27T07:48:19-05:00",
+                "Headline": "Microsoft says OpenAI agreement allows 'various' models to be used in products"
+            },
+            {
+                "PublishOn": "2024-12-26T11:18:27-05:00",
+                "Headline": "OpenAI in talks with Microsoft over terms amid plans for-profit business conversion"
+            },
+            {
+                "PublishOn": "2024-12-25T08:00:00-05:00",
+                "Headline": "Toy story: Hasbro and Mattel may be holiday season winners"
+            },
+            {
+                "PublishOn": "2024-12-24T11:59:50-05:00",
+                "Headline": "OpenAI ponders humanoid robot in quest to take AI to new level: report"
+            },
+            {
+                "PublishOn": "2024-12-24T03:55:02-05:00",
+                "Headline": "Nasdaq 100 rebalance: Meta, Broadcom and Tesla index weighting reduced"
+            },
+            {
+                "PublishOn": "2024-12-23T14:21:56-05:00",
+                "Headline": "Microsoft looks to use non-OpenAI models in Copilot products: report"
+            },
+            {
+                "PublishOn": "2024-12-21T14:49:20-05:00",
+                "Headline": "OpenAI project to improve ChatGPT behind schedule as costs soar: report"
+            },
+            {
+                "PublishOn": "2024-12-20T13:56:50-05:00",
+                "Headline": "OpenAI reveals new frontier model o3; says it crushes prior AI benchmarks"
+            },
+            {
+                "PublishOn": "2024-12-20T11:16:58-05:00",
+                "Headline": "OpenAI plans to appeal €15M fine by Italian data protection regulator"
+            },
+            {
+                "PublishOn": "2024-12-20T08:19:34-05:00",
+                "Headline": "Oracle dips after Monness cuts rating to Sell"
+            },
+            {
+                "PublishOn": "2024-12-19T13:49:09-05:00",
+                "Headline": "OpenAI makes agentic push as ChatGPT works within more Apple apps"
+            },
+            {
+                "PublishOn": "2024-12-19T11:03:56-05:00",
+                "Headline": "Arm, Qualcomm set to make closing arguments in legal spat: report"
+            },
+            {
+                "PublishOn": "2024-12-19T08:20:18-05:00",
+                "Headline": "Fed induced tech sell-off is just a 'buying opportunity:' Wedbush"
+            }
+        ]
+    },
+    {
+        "Ticker": "V",
+        "EntryPrice": 273.87,
+        "Shares": 62,
+        "TakeProfitPrice": 242.04,
+        "StopLossPrice": 305.7,
+        "Profit": 1973.74,
+        "Articles": [
+            {
+                "PublishOn": "2024-12-23T11:47:39-05:00",
+                "Headline": "U.S. holiday spending climbs 4.8% Y/Y, Visa says"
+            },
+            {
+                "PublishOn": "2024-12-22T16:25:16-05:00",
+                "Headline": "Citi's 10 things to watch for in fintech in 2025"
+            },
+            {
+                "PublishOn": "2024-12-19T08:20:03-05:00",
+                "Headline": "Visa announces completion of Featurespace acquisition"
+            },
+            {
+                "PublishOn": "2024-12-18T16:01:55-05:00",
+                "Headline": "Visa snaps six straight sessions of gains"
+            },
+            {
+                "PublishOn": "2024-12-12T10:04:07-05:00",
+                "Headline": "Visa Direct to speed funds availability for U.S. cardholders"
+            },
+            {
+                "PublishOn": "2024-12-08T16:20:12-05:00",
+                "Headline": "Payment processing firms track robust spending on Black Friday-Cyber Monday"
+            },
+            {
+                "PublishOn": "2024-12-02T11:47:27-05:00",
+                "Headline": "Early holiday spending data bode well for Visa, Mastercard, others, Citi says"
+            },
+            {
+                "PublishOn": "2024-12-01T16:50:41-05:00",
+                "Headline": "SA Asks: Which retail stocks will win or lose this holiday season?"
+            },
+            {
+                "PublishOn": "2024-11-29T12:00:00-05:00",
+                "Headline": "Catalyst Watch: November jobs, OPEC+ meeting, Marvell, Salesforce earnings"
+            },
+            {
+                "PublishOn": "2024-11-24T10:55:24-05:00",
+                "Headline": "Hedge funds lift financial stock holdings to 15-year high: Goldman Sachs"
+            },
+            {
+                "PublishOn": "2024-11-14T17:37:53-05:00",
+                "Headline": "ValueAct's top Q3 trades feature new Meta, Visa stakes, KKR, Spotify exits"
+            },
+            {
+                "PublishOn": "2024-11-14T17:09:33-05:00",
+                "Headline": "Soroban Capital buys CenterPoint Energy, exits Exelon, others in Q3"
+            },
+            {
+                "PublishOn": "2024-11-13T16:09:22-05:00",
+                "Headline": "Mastercard stock slips as it forecasts slower growth through 2027"
+            },
+            {
+                "PublishOn": "2024-11-12T09:15:18-05:00",
+                "Headline": "Visa expands flexible spending option with Affirm in the U.S., Liv in UAE"
+            },
+            {
+                "PublishOn": "2024-11-11T09:52:11-05:00",
+                "Headline": "Marqeta gains on report private equity firms may be circling on takeover"
+            },
+            {
+                "PublishOn": "2024-11-08T08:36:09-05:00",
+                "Headline": "Dividend Roundup: UPS, 3M, IBM, Visa, and more"
+            },
+            {
+                "PublishOn": "2024-11-06T12:45:39-05:00",
+                "Headline": "Visa, Mastercard fees at the center of EU antitrust probe - report"
+            },
+            {
+                "PublishOn": "2024-11-03T16:15:56-05:00",
+                "Headline": "Visa and Mastercard's growth runway in the U.S. may be shortening, Mizuho says"
+            },
+            {
+                "PublishOn": "2024-10-30T07:03:22-04:00",
+                "Headline": "Coinbase to integrate Visa Direct for real-time access to funds"
+            },
+            {
+                "PublishOn": "2024-10-29T17:50:15-04:00",
+                "Headline": "Earnings movers: Google parent Alphabet climbs, AMD drops in after-hours trade Tuesday"
+            }
+        ]
+    },
+    {
+        "Ticker": "AVGO",
+        "EntryPrice": 1219.92,
+        "Shares": 9,
+        "TakeProfitPrice": 1434.15,
+        "StopLossPrice": 1005.69,
+        "Profit": 1928.07,
+        "Articles": [
+            {
+                "PublishOn": "2024-12-30T09:05:14-05:00",
+                "Headline": "Nvidia's supplier Ibiden mulls rapid expansion amid AI demand: report"
+            },
+            {
+                "PublishOn": "2024-12-24T08:53:41-05:00",
+                "Headline": "Netflix sues VMware; suit part of a bigger conflict with Broadcom - report"
+            },
+            {
+                "PublishOn": "2024-12-24T03:55:02-05:00",
+                "Headline": "Nasdaq 100 rebalance: Meta, Broadcom and Tesla index weighting reduced"
+            },
+            {
+                "PublishOn": "2024-12-23T09:52:21-05:00",
+                "Headline": "2024's top and bottom Nasdaq-100 performers include NVDA, APP, INTC, MRNA, and more"
+            },
+            {
+                "PublishOn": "2024-12-22T12:41:54-05:00",
+                "Headline": "Insider trades: OXY, Nvidia \u0026 Salesforce among notable names this week"
+            },
+            {
+                "PublishOn": "2024-12-21T09:37:00-05:00",
+                "Headline": "Notable analyst calls this week: Tesla, Zoom and Micron stocks among top picks"
+            },
+            {
+                "PublishOn": "2024-12-20T08:37:47-05:00",
+                "Headline": "Broadcom, Astera Labs, Marvell get price target boosts at Morgan Stanley"
+            },
+            {
+                "PublishOn": "2024-12-20T08:28:52-05:00",
+                "Headline": "Dividend Roundup: Mastercard, Broadcom, Southwest Airlines, Waste Management, and more"
+            },
+            {
+                "PublishOn": "2024-12-18T08:13:35-05:00",
+                "Headline": "Broadcom, Marvell, Analog Devices among JPMorgan's favorite chip stocks for 2025"
+            },
+            {
+                "PublishOn": "2024-12-17T15:18:31-05:00",
+                "Headline": "Marvell, Broadcom lead semiconductor stocks lower"
+            },
+            {
+                "PublishOn": "2024-12-17T14:07:05-05:00",
+                "Headline": "‘Rocket ride’ Tesla, Broadcom’s mega-rally highlights appetite for momentum trade: IBKR"
+            },
+            {
+                "PublishOn": "2024-12-17T05:25:41-05:00",
+                "Headline": "Explainer: More records for Nasdaq as Dow struggles with losing streak"
+            },
+            {
+                "PublishOn": "2024-12-16T09:47:49-05:00",
+                "Headline": "SA Charts: Here's how global semiconductor sales have performed this year"
+            },
+            {
+                "PublishOn": "2024-12-16T08:37:58-05:00",
+                "Headline": "Broadcom, Nvidia are Bernstein's top chip stocks for 2025; firm sticks with Qualcomm"
+            },
+            {
+                "PublishOn": "2024-12-16T07:59:08-05:00",
+                "Headline": "Nvidia, Broadcom, Marvell among BofA's top chip stocks for 2025"
+            },
+            {
+                "PublishOn": "2024-12-15T08:00:00-05:00",
+                "Headline": "Broadcom, Workday, monday.com among William Blair's top 2025 picks"
+            },
+            {
+                "PublishOn": "2024-12-14T12:08:23-05:00",
+                "Headline": "Trending stocks amid a mixed week for U.S. stock market"
+            },
+            {
+                "PublishOn": "2024-12-14T10:44:42-05:00",
+                "Headline": "Bulls vs. Bears: How long can Broadcom ride the AI gravy train?"
+            },
+            {
+                "PublishOn": "2024-12-14T09:37:00-05:00",
+                "Headline": "Notable analyst calls this week: AMD, Adobe and Utilities stocks among top picks"
+            },
+            {
+                "PublishOn": "2024-12-14T08:27:00-05:00",
+                "Headline": "Four out of six companies deliver EPS wins this week - Earnings Scorecard"
+            }
+        ]
+    },
+    {
+        "Ticker": "AMZN",
+        "EntryPrice": 160.79,
+        "Shares": 95,
+        "TakeProfitPrice": 181.73,
+        "StopLossPrice": 139.85,
+        "Profit": 1989.31,
+        "Articles": [
+            {
+                "PublishOn": "2024-12-31T07:35:56-05:00",
+                "Headline": "Nvidia, Microsoft lead Wedbush's top 10 tech winners for AI revolution in 2025"
+            },
+            {
+                "PublishOn": "2024-12-30T14:42:34-05:00",
+                "Headline": "Trim the Mag 7 and invest in lower valuation dividend growth stocks – Miramar Capital"
+            },
+            {
+                "PublishOn": "2024-12-30T11:07:51-05:00",
+                "Headline": "Rigetti, D-Wave lead quantum stocks lower on Monday as year draws to close"
+            },
+            {
+                "PublishOn": "2024-12-29T14:26:31-05:00",
+                "Headline": "\"Sonic the Hedgehog 3,\" \"Mufasa\" dominate Christmas weekend box office"
+            },
+            {
+                "PublishOn": "2024-12-28T09:37:00-05:00",
+                "Headline": "Notable analyst calls this week: FREYR Battery, Apple and ServiceNow among top picks"
+            },
+            {
+                "PublishOn": "2024-12-26T11:43:22-05:00",
+                "Headline": "Amazon to lower spending on ZT Systems, which is being acquired by AMD: report"
+            },
+            {
+                "PublishOn": "2024-12-26T07:46:28-05:00",
+                "Headline": "Late burst helps holiday retail sales rise 3.8% - Mastercard SpendingPulse"
+            },
+            {
+                "PublishOn": "2024-12-24T10:33:39-05:00",
+                "Headline": "Let it Snow: Vail Resorts set for strong 2025 season with early snowfall an important catalyst"
+            },
+            {
+                "PublishOn": "2024-12-23T10:24:07-05:00",
+                "Headline": "Retail watch: Holiday sales are still solid as the season comes to a wrap"
+            },
+            {
+                "PublishOn": "2024-12-23T10:02:29-05:00",
+                "Headline": "Meta, Amazon, DoorDash rank as Citi's 'Top-Picks' across Internet sector"
+            },
+            {
+                "PublishOn": "2024-12-23T07:23:56-05:00",
+                "Headline": "Google's Wing expands into mall-based drone delivery with DoorDash"
+            },
+            {
+                "PublishOn": "2024-12-23T06:26:25-05:00",
+                "Headline": "Universal Music, Amazon's expanded partnership to address unlawful AI content"
+            },
+            {
+                "PublishOn": "2024-12-22T12:15:02-05:00",
+                "Headline": "Starbucks, Amazon worker strikes follow active year of labor unrest"
+            },
+            {
+                "PublishOn": "2024-12-21T12:09:00-05:00",
+                "Headline": "As quantum computing stocks soar, Wall Street analysts take bullish stance"
+            },
+            {
+                "PublishOn": "2024-12-20T10:07:51-05:00",
+                "Headline": "Holiday check: Amazon says it's business as usual despite Teamsters strike at seven facilities"
+            },
+            {
+                "PublishOn": "2024-12-20T08:19:34-05:00",
+                "Headline": "Oracle dips after Monness cuts rating to Sell"
+            },
+            {
+                "PublishOn": "2024-12-19T08:20:18-05:00",
+                "Headline": "Fed induced tech sell-off is just a 'buying opportunity:' Wedbush"
+            },
+            {
+                "PublishOn": "2024-12-19T02:09:35-05:00",
+                "Headline": "Amazon could face strike in U.S. during busy holiday season (updated)"
+            },
+            {
+                "PublishOn": "2024-12-18T16:46:09-05:00",
+                "Headline": "Amazon (AMZN) Yield Shares Purpose ETF declares C$0.35 dividend"
+            },
+            {
+                "PublishOn": "2024-12-18T11:56:24-05:00",
+                "Headline": "J.P. Morgan picks out top stocks for broader internet going into 2025"
+            }
+        ]
+    }
+]
